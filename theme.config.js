@@ -1,11 +1,11 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/the-relieve/ney',
+  titleSuffix: ' – the ReLieve',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">the ReLieve</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next Site Builder
+         Voice - Mental Health News & Resources
       </span>
     </>
   ),
@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  footerText: <>© {new Date().getFullYear()} the ReLieve</>
 }

@@ -1,4 +1,4 @@
-# Nextra
+# the ReLieve
 
 **Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
 
